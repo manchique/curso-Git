@@ -1,10 +1,10 @@
 body
 {
-<<<<<<< HEAD
-    color:aqua
-=======
-    color: #333
-
->>>>>>> cabecera
-
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+    
 }
